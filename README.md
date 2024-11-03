@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=musolee1&theme=tokyonight" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=musolee1&theme=highcontrast" alt="GitHub Streak" /></a>
 <!--
 **musolee1/musolee1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
