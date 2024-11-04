@@ -8,9 +8,8 @@
 
 ## 🔥 Streak Stats
 
-<p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=musolee1&theme=highcontrast" alt="GitHub Streak" /></a>
-</p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ibulutx&theme=algolia" alt="ibulutx"  /></p>
+
 ## 📊 Github Profile  Stats 
 
   <br/>
