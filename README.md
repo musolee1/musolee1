@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+## 🙋‍♀️ Let's Connect
+<p align="center">
+	<a href="mailto:mustafabayramoglu29@gmail.com"><img src="https://img.icons8.com/?size=35&id=124379&format=png" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/mustafa-bayramoglu/"><img src="https://img.icons8.com/?size=35&id=60444&format=png" alt="LinkedIn"/></a>
+</p>
+
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=musolee1&theme=highcontrast" alt="GitHub Streak" /></a>
   <!--
 **musolee1/musolee1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
