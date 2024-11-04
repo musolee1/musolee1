@@ -7,7 +7,20 @@
 </p>
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=musolee1&theme=highcontrast" alt="GitHub Streak" /></a>
-  <!--
+  
+## 📊 Github Profile  Stats 
+
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="İlayda's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ibulutx&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ibulutx&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ibulutx" height="192px"/>
+  <br/>
+ 
+  </p>
+
+<!--
 **musolee1/musolee1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: 
