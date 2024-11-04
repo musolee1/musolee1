@@ -8,16 +8,16 @@
 
 ## 🔥 Streak Stats
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ibulutx&theme=algolia" alt="ibulutx"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=musolee1&theme=algolia" alt="musolee1"  /></p>
 
 ## 📊 Github Profile  Stats 
 
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="İlayda's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ibulutx&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="İlayda's Github Stats" src="https://github-readme-stats.vercel.app/api?username=musolee1&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ibulutx&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ibulutx" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=musolee1&show_icons=true&locale=en&layout=compact&theme=algolia" alt="musolee1" height="192px"/>
   <br/>
  
   </p>
