@@ -7,7 +7,7 @@
 </p>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=musolee1&theme=algolia" alt="musolee1"  /></p>
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=musolee1" alt="GitHub Streak" /></a></p>
 
 ## 📊 Github Profile  Stats 
 
