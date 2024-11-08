@@ -7,7 +7,7 @@
 </p>
 
 ## 🔥 Streak Stats
-<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=musolee1" alt="musolee1" /></a></p>
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=musolee1" alt="musolee1" /></a></p> 
 
 ## 📊 Github Profile  Stats 
 
