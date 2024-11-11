@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## 🙋‍♀️ Let's Connect
+## 🙋‍♀️ Let's Connect me
 <p align="center">
 	<a href="mailto:mustafabayramoglu29@gmail.com"><img src="https://img.icons8.com/?size=35&id=124379&format=png" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/mustafa-bayramoglu/"><img src="https://img.icons8.com/?size=35&id=60444&format=png" alt="LinkedIn"/></a>
