@@ -6,7 +6,7 @@
 	<a href="https://www.linkedin.com/in/mustafa-bayramoglu/"><img src="https://img.icons8.com/?size=35&id=60444&format=png" alt="LinkedIn"/></a>
 </p>
 
-## 🔥 Streak Stats 
+## 🔥🔥 Streak Stats 🔥🔥
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=musolee1" alt="musolee1"  /></a></p>
 
 ## 📊 Github Profile  Stats  
